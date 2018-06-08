@@ -1,0 +1,2 @@
+# HexVipsManager
+Easly manage VIPs
